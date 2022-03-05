@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="first_time_donor">First Time Donor</string>
+    <string name="healthy">Healthy</string>
+    <string name="sick">Sick</string>
+    <string name="height">Height (m)</string>
+    <string name="condition">Condition</string>
+    <string name="age_year">Age (year)</string>
+    <string name="invalid_weight">Invalid weight</string>
+    <string name="invalid_height">Invalid height</string>
+    <string name="invalid_age">Age not in range</string>
+    <string name="underweight">underweight</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="obese">obese</string>
+</resources>
