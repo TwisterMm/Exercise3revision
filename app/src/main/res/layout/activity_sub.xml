@@ -159,12 +159,12 @@
         android:text="Eligibility"
         android:textSize="16sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="@+id/textView20"
+        app:layout_constraintBottom_toBottomOf="@+id/outEligible"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
-        app:layout_constraintTop_toTopOf="@+id/textView20" />
+        app:layout_constraintTop_toTopOf="@+id/outEligible" />
 
     <TextView
-        android:id="@+id/textView20"
+        android:id="@+id/outEligible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -184,7 +184,7 @@
         android:text="For Blood Donation"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="@+id/guideline3"
-        app:layout_constraintTop_toBottomOf="@+id/textView20" />
+        app:layout_constraintTop_toBottomOf="@+id/outEligible" />
 
     <Button
         android:id="@+id/button"
